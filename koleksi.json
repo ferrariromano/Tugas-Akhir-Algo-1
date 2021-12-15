@@ -1,0 +1,116 @@
+[
+  [
+    {
+      "judul": "1",
+      "kode": "A",
+      "tanggal": null
+    },
+    {
+      "judul": "Linear Al-Gebra",
+      "tanggal": "2021 12 09",
+      "kode": "A"
+    },
+    {
+      "judul": "Quantum Physics",
+      "tanggal": "2021 12 12",
+      "kode": "A"
+    },
+    {
+      "judul": "Programming Paradigms",
+      "tanggal": "2021 12 12",
+      "kode": "A"
+    }
+  ],
+  [
+    {
+      "judul": "Global Economy",
+      "kode": "B",
+      "tanggal": null
+    },
+    {
+      "judul": "Financial Accounting",
+      "tanggal": "2021 12 03",
+      "kode": "B"
+    },
+    {
+      "judul": "Fundamental Ekonomi",
+      "tanggal": "2021 12 02",
+      "kode": "B"
+    },
+    {
+      "judul": "SEA Economy",
+      "tanggal": "2021 12 11",
+      "kode": "B"
+    }
+  ],
+  [
+    {
+      "judul": "Politik Hukum",
+      "kode": "C",
+      "tanggal": null
+    },
+    {
+      "judul": "Ilmu Politik",
+      "kode": "C",
+      "tanggal": null
+    },
+    {
+      "judul": "Politik dan Kekuasaan",
+      "kode": "C",
+      "tanggal": null
+    },
+    {
+      "judul": "Sistem Politik Indonesia",
+      "kode": "C",
+      "tanggal": null
+    },
+    {
+      "judul": "3",
+      "kode": "C",
+      "tanggal": null
+    }
+  ],
+  [
+    {
+      "judul": "Harry Potter and the Half-Blood Prince",
+      "tanggal": "2021 12 03",
+      "kode": "D"
+    },
+    {
+      "judul": "Pulang Pergi",
+      "tanggal": "2021 12 11",
+      "kode": "D"
+    },
+    {
+      "judul": "Si Putih",
+      "tanggal": "2021 12 03",
+      "kode": "D"
+    }
+  ],
+  [
+    {
+      "judul": "Naruto",
+      "kode": "E",
+      "tanggal": null
+    },
+    {
+      "judul": "One Piece",
+      "kode": "E",
+      "tanggal": null
+    },
+    {
+      "judul": "Attack on Titan",
+      "kode": "E",
+      "tanggal": null
+    },
+    {
+      "judul": "Bleach",
+      "kode": "E",
+      "tanggal": null
+    },
+    {
+      "judul": "sinchan",
+      "tanggal": null
+    }
+  ]
+]
